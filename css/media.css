@@ -1,0 +1,126 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+	.social_wrap {
+		margin-bottom: 70px
+	}
+	.social_wrap .social {
+		margin: 0 auto;
+		width: 490px
+	}
+	.content_block .social_wrap .social {
+		margin-bottom: 20px;
+	}
+	.social_wrap .social a {
+		font-size: 40px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+	
+	.social_wrap {
+		margin-bottom: 70px
+	}
+	.social_wrap .social {
+		margin: 0 auto;
+		width: 490px
+	}
+	.content_block .social_wrap .social {
+		margin-bottom: 20px;
+	}
+	.social_wrap .social a {
+		font-size: 40px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+	.top_head {
+		padding: 2px 20px
+	}
+
+	.top_head h1 {
+		font-size: 14px;
+	}
+	.social_wrap {
+		margin-bottom: 70px
+	}
+	.social_wrap .social {
+		margin: 0 auto;
+		width: 380px
+	}
+	.content_block .social_wrap .social {
+		margin-bottom: 20px;
+	}
+	.social_wrap .social a {
+		font-size: 32px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+	.social_wrap {
+		margin-bottom: 70px
+	}
+	.social_wrap .social {
+		margin: 0 auto;
+		width: 300px
+	}
+	.content_block .social_wrap .social {
+		margin-bottom: 20px;
+	}
+	.social_wrap .social a {
+		font-size: 32px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
